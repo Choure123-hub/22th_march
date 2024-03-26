@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test thread-count="5" name="Test">
+    <classes>
+      <class name="TestNG.example7_DisableTCExecutionFromTestSuite"/>
+      <class name="TestNG.example5_Keyword2_Enable"/>
+      <class name="TestNG.example8_Sample2"/>
+      <class name="POM_DDF_TestNG.PBLoginTest1"/>
+      <class name="TestNG.example8_Sample1"/>
+      <class name="TestNG.example6_AssertClass1_assertEquals"/>
+      <class name="TestNG.example10_parallel1"/>
+      <class name="POM_DDF_TestNG_BaseClass_UtilityClass.PBLoginTest1"/>
+      <class name="TestNG.example9_grouping2"/>
+      <class name="TestNG.example6_Sample1"/>
+      <class name="TestNG.example3_EmailableReport"/>
+      <class name="TestNG.example9_grouping1"/>
+      <class name="TestNG.example10_parallel2"/>
+      <class name="TestNG.example6_Sample2"/>
+      <class name="TestNG.example6_SoftAssertClass1"/>
+      <class name="DataDrivenTesting.DataDrivenTest"/>
+      <class name="TestNG.example5_Keyword4_Timeout"/>
+      <class name="TestNG.example6_AssertClass2_assertNotEquals"/>
+      <class name="TestNG.example5_Keyword1_InvocationCount"/>
+      <class name="TestNG.example5_Keyword5_dependsOnMethods2"/>
+      <class name="TestNG.example2_exampleOfTestNGTestClass"/>
+      <class name="TestNG.example7_DisableTCExecutionFromTestClass"/>
+      <class name="TestNG.example6_AssertClass5"/>
+      <class name="TestNG.example6_AssertClass3_assertTrue"/>
+      <class name="TestNG.example5_Keyword5_dependsOnMethods"/>
+      <class name="TestNG.example5_Keyword3_Priority"/>
+      <class name="Interview_Asked_Program.HowToGet_backgroundColour"/>
+      <class name="TestNG.example4_TestNGAnnotation"/>
+      <class name="TestNG.example6_AssertClass4_assertfalse"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->
